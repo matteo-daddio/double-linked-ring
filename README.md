@@ -1,2 +1,2 @@
-# double-linked-ring
-Racket data structure
+# Double Linked Ring
+Racket data structure.
