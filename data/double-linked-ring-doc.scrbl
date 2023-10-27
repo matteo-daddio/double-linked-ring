@@ -1,3 +1,6 @@
 
-#lang scribble/base
+#lang scribble/manual
 
+@title{Double Linkked Ring}
+
+A simple data structure.
