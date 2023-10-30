@@ -7,7 +7,7 @@
           [ring (->* ()((listof any/c)) ring?)]
           [ring? (-> any/c boolean?)]
          
-          [ring-size (-> ring? integer?)]
+          [ring-size (-> ring? exact-nonnegative-integer?)]
           [ring-current (-> ring? any/c)]
          
           [ring-next! (-> ring? any/c)]
