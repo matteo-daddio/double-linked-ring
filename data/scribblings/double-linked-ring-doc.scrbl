@@ -3,12 +3,11 @@
 
 @(require scribble/eval
           (for-label racket
-                     "double-linked-ring.rkt"))
+                     data/double-linked-ring))
 
 @; eval for examples
 @(define base-eval (make-base-eval))
-@interaction-eval[#:eval base-eval
-                  (require "double-linked-ring.rkt")]
+@interaction-eval[#:eval base-eval (require data/double-linked-ring)]
 
 
 @title{Double Linked Ring}
