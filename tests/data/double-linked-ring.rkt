@@ -1,7 +1,7 @@
 
 #lang racket/base
 
-(require "double-linked-ring.rkt")
+(require data/double-linked-ring)
 (require rackunit)
 (require rackunit/text-ui)
   
