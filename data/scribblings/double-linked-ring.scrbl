@@ -15,7 +15,7 @@
 @defmodule[data/double-linked-ring]
 
 A double linked ring data structure.
-A ring hasn't a begin or an end, it only has
+A ring has no beginning or end, it only has
 a current element.
 
 
