@@ -43,7 +43,7 @@ a current element.
  ]
 
 @defproc[(ring-size [a-ring ring?]) exact-nonnegative-integer?]{
- Returns the size of the ring.
+ Returns the number of elements of the ring.
 }
 
 @defproc[(ring-current [a-ring ring?]) any/c]{
