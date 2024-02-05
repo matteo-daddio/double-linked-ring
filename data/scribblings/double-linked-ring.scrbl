@@ -133,4 +133,4 @@ a current element.
  ]
 
 The procedure @racket[ring->list] can be quite confusing.
-I use it mainly fo debugging purposes.
+I use it mainly for debugging purposes.
